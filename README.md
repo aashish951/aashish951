@@ -1,5 +1,5 @@
 # 💫 About Me:
-i m ashish currently pursuing btech,<br>i m currently learning terraform,docket an cloud
+i m ashish currently pursuing btech,<br>i m currently learning terraform,docker,ci/cd and cloud
 
 
 ## 🌐 Socials:
