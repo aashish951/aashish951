@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Brimwan</h1>
-<h3 align="center">Aspiring Cloud / DevOps Engineer | AWS | Terraform</h3>
+<h3 align="center">Aspiring Cloud / DevOps Engineer | AWS | Terraform | Git | Linux </h3>
 
 <p align="center">
 I'm building a career in Cloud and DevOps. I recently completed a DevOps Internship at Elevate Labs, where I got hands-on exposure to cloud infrastructure and automation. I like breaking things, fixing them, and documenting how I did it.
@@ -23,7 +23,6 @@ I'm building a career in Cloud and DevOps. I recently completed a DevOps Interns
 **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Data / ML**
