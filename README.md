@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Cloud / DevOps Engineer | AWS | Terraform | Git | Linux </h3>
 
 <p align="center">
-I'm building a career in Cloud and DevOps. I recently completed a DevOps Internship at Elevate Labs, where I got hands-on exposure to cloud infrastructure and automation. I like breaking things, fixing them, and documenting how I did it.
+I'm building a career in Cloud and DevOps. I recently completed a DevOps Internship at Elevate Labs, where I got hands-on exposure to cloud infrastructure and automation.Using my own projects I like breaking things, fixing them, and documenting how I did it.
 </p>
 
 <p align="center">
